@@ -1,0 +1,11 @@
+
+[
+  { "id": "k1", "nama": "Jaket Almamater Premium", "harga_normal": 350000, "harga_promo": 250000, "stok": 50, "kategori": "Fashion", "gambar": ["https://placehold.co/500x500/1e293b/FFF?text=Jaket"], "rating": 4.9, "penjual": "TeFa SekolahKu", "official": true },
+  { "id": "k2", "nama": "Modul Produktif RPL", "harga_normal": 85000, "harga_promo": 0, "stok": 100, "kategori": "Buku", "gambar": ["https://placehold.co/500x500/cbd5e1/1e293b?text=Modul"], "rating": 4.8, "penjual": "TeFa SekolahKu", "official": true },
+  { "id": "k3", "nama": "Tumbler SekolahKu Exclusive", "harga_normal": 75000, "harga_promo": 50000, "stok": 200, "kategori": "Merchandise", "gambar": ["https://placehold.co/500x500/64748b/FFF?text=Tumbler"], "rating": 4.7, "penjual": "TeFa SekolahKu", "official": true },
+  { "id": "k4", "nama": "Jasa Service Laptop", "harga_normal": 150000, "harga_promo": 0, "stok": 99, "kategori": "Jasa", "gambar": ["https://placehold.co/500x500/f59e0b/FFF?text=Service"], "rating": 4.9, "penjual": "Unit Produksi TKJ", "official": false },
+  { "id": "k5", "nama": "Stiker Pack Jurusan", "harga_normal": 15000, "harga_promo": 10000, "stok": 100, "kategori": "Merchandise", "gambar": ["https://placehold.co/500x500/10b981/FFF?text=Stiker"], "rating": 4.6, "penjual": "OSIS SekolahKu", "official": false },
+  { "id": "k6", "nama": "Wearpack Otomotif", "harga_normal": 200000, "harga_promo": 0, "stok": 15, "kategori": "Seragam", "gambar": ["https://placehold.co/500x500/334155/FFF?text=Wearpack"], "rating": 5.0, "penjual": "TeFa SekolahKu", "official": true },
+  { "id": "k7", "nama": "Jasa Ganti Oli Motor", "harga_normal": 50000, "harga_promo": 45000, "stok": 50, "kategori": "Jasa", "gambar": ["https://placehold.co/500x500/e2e8f0/000?text=Service+Motor"], "rating": 4.8, "penjual": "Unit Produksi TBSM", "official": false },
+  { "id": "k8", "nama": "Kaus Polo SekolahKu", "harga_normal": 120000, "harga_promo": 100000, "stok": 40, "kategori": "Fashion", "gambar": ["https://placehold.co/500x500/1d4ed8/FFF?text=Polo+Shirt"], "rating": 4.8, "penjual": "TeFa SekolahKu", "official": true }
+]

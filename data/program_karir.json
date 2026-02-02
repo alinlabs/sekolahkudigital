@@ -1,0 +1,4 @@
+[
+  { "judul": "Pelatihan Mekanik Dasar", "tipe": "Sertifikasi", "durasi": "1 Bulan", "harga": 0, "populer": true, "mitra": "Astra Honda", "gambar": "https://placehold.co/600x400/1e293b/FFF?text=Mekanik", "keuntungan": ["Sertifikat Industri", "Prioritas Magang"] },
+  { "judul": "Digital Marketing UMKM", "tipe": "Bootcamp", "durasi": "2 Minggu", "harga": 0, "populer": false, "mitra": "Kominfo", "gambar": "https://placehold.co/600x400/2563eb/FFF?text=Digimar", "keuntungan": ["Portfolio", "Mentoring"] }
+]

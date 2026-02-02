@@ -1,0 +1,171 @@
+
+-- Schema untuk Cloudflare D1 (SQLite)
+
+-- 1. Tabel Konfigurasi Statis (Identitas, Halaman, Metadata)
+CREATE TABLE IF NOT EXISTS app_config (
+    key TEXT PRIMARY KEY,
+    value TEXT
+);
+
+-- 2. Tabel Pengguna
+CREATE TABLE IF NOT EXISTS users (
+    id TEXT PRIMARY KEY,
+    username TEXT,
+    nama TEXT,
+    peran TEXT,
+    id_nomor TEXT,
+    prodi TEXT,
+    avatar TEXT
+);
+
+-- 3. Tabel Program Studi
+CREATE TABLE IF NOT EXISTS study_programs (
+    id TEXT PRIMARY KEY,
+    jenjang TEXT,
+    nama TEXT,
+    fakultas TEXT,
+    logo TEXT,
+    iconUrl TEXT,
+    ikon TEXT,
+    akreditasi TEXT,
+    durasi TEXT,
+    deskripsi TEXT,
+    heroImage TEXT,
+    biaya TEXT,
+    kampus TEXT,
+    kurikulum TEXT,
+    prospekKarir TEXT
+);
+
+-- 4. Tabel Dosen
+CREATE TABLE IF NOT EXISTS lecturers (
+    id INTEGER PRIMARY KEY,
+    nama TEXT,
+    peran TEXT,
+    struktur TEXT,
+    gambar TEXT,
+    mataKuliah TEXT,
+    email TEXT,
+    biografi TEXT
+);
+
+-- 5. Tabel Berita
+CREATE TABLE IF NOT EXISTS news (
+    id INTEGER PRIMARY KEY,
+    judul TEXT,
+    tanggal TEXT,
+    penulis TEXT,
+    kategori TEXT,
+    gambar TEXT,
+    ringkasan TEXT,
+    isiKonten TEXT,
+    tags TEXT
+);
+
+-- 6. Tabel Galeri (Updated 'tipe' to 'kategori')
+CREATE TABLE IF NOT EXISTS gallery (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    judul TEXT,
+    kategori TEXT,
+    deskripsi TEXT,
+    lokasi TEXT,
+    gambar TEXT
+);
+
+-- 7. Tabel Produk Koperasi
+CREATE TABLE IF NOT EXISTS products (
+    id TEXT PRIMARY KEY,
+    nama TEXT,
+    hargaNormal INTEGER,
+    hargaPromo INTEGER,
+    stok INTEGER,
+    kategori TEXT,
+    gambar TEXT,
+    rating REAL,
+    penjual TEXT,
+    tokoId TEXT,
+    official BOOLEAN
+);
+
+-- 10. Tabel Pendaftar
+CREATE TABLE IF NOT EXISTS applicants (
+    id TEXT PRIMARY KEY,
+    data_json TEXT
+);
+
+-- 11. Tabel Organisasi
+CREATE TABLE IF NOT EXISTS organizations (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nama TEXT,
+    kategori TEXT,
+    logo TEXT,
+    gambar TEXT,
+    deskripsi TEXT,
+    kontak TEXT
+);
+
+-- 12. Tabel Karir & Lowongan
+CREATE TABLE IF NOT EXISTS career_programs (
+    judul TEXT,
+    tipe TEXT,
+    durasi TEXT,
+    harga TEXT,
+    populer BOOLEAN,
+    mitra TEXT,
+    gambar TEXT,
+    keuntungan TEXT
+);
+
+CREATE TABLE IF NOT EXISTS jobs (
+    posisi TEXT,
+    perusahaan TEXT,
+    lokasi TEXT,
+    tipe TEXT,
+    gaji TEXT,
+    logo TEXT
+);
+
+CREATE TABLE IF NOT EXISTS alumni (
+    nama TEXT,
+    lulusan TEXT,
+    peran TEXT,
+    perusahaan TEXT,
+    kutipan TEXT,
+    gambar TEXT
+);
+
+CREATE TABLE IF NOT EXISTS achievements (
+    judul TEXT,
+    kategori TEXT,
+    tim TEXT,
+    tingkat TEXT,
+    gambar TEXT,
+    tahun TEXT,
+    deskripsi TEXT
+);
+
+CREATE TABLE IF NOT EXISTS announcements (
+    tanggal TEXT,
+    judul TEXT,
+    deskripsi TEXT
+);
+
+-- 15. Tabel Transaksi (NEW)
+CREATE TABLE IF NOT EXISTS transactions (
+    id TEXT PRIMARY KEY,
+    userId TEXT,
+    items TEXT,
+    total INTEGER,
+    status TEXT,
+    tanggal TEXT,
+    metode TEXT,
+    catatan TEXT
+);
+
+-- SEED DATA (UPDATED)
+-- Using updated column 'kategori' for gallery
+
+INSERT OR REPLACE INTO gallery (judul, kategori, deskripsi, lokasi, gambar) VALUES
+('Gedung Rektorat', 'Fasilitas', 'Pusat administrasi kampus.', 'Kampus Pusat', 'https://placehold.co/800x600/1e293b/FFF?text=Gedung'),
+('Wisuda XIX', 'Kegiatan', 'Prosesi wisuda tahun 2024.', 'Ballroom Hotel', 'https://placehold.co/800x500/be123c/FFF?text=Wisuda'),
+('Lab Komputer', 'Fasilitas', 'Lab multimedia dan akuntansi.', 'Lantai 3', 'https://placehold.co/800x600/0f172a/FFF?text=Lab+Komp');

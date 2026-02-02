@@ -1,0 +1,36 @@
+
+{
+  "nama": "SekolahKu Digital",
+  "logo": "https://i.ibb.co.com/TBQkzRnp/Generated-Image-February-02-2026-9-17-AM-removebg-preview.png",
+  "slogan": "Platform Pendidikan Masa Depan",
+  "deskripsi": "Solusi manajemen sekolah terintegrasi berbasis digital. Mewujudkan ekosistem pendidikan yang modern, efisien, dan transparan.",
+  "teks_footer": "© 2025 SekolahKu Digital. Transformasi Pendidikan Indonesia.",
+  "kontak": {
+    "email": "info@sekolahku-digital.id",
+    "telepon": "(021) 8224690",
+    "alamat": "Menara Digital, Jl. Teknologi No.1, Jakarta"
+  },
+  "sosial": {
+    "twitter": "#",
+    "instagram": "https://www.instagram.com/sekolahku_digital/",
+    "linkedin": "#"
+  },
+  "navigasi_footer": [
+    {
+      "judul": "Layanan Akademik",
+      "item": [
+        { "label": "Program Keahlian", "url": "#/studi" },
+        { "label": "E-Learning", "url": "#/studi" },
+        { "label": "Sistem Informasi", "url": "#/studi" }
+      ]
+    },
+    {
+      "judul": "Ekosistem Siswa",
+      "item": [
+        { "label": "Organisasi & Ekskul", "url": "#/organisasi" },
+        { "label": "Pusat Prestasi", "url": "#/prestasi" },
+        { "label": "Karir & Penyaluran", "url": "#/karir" }
+      ]
+    }
+  ]
+}

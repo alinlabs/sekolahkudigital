@@ -1,0 +1,26 @@
+
+[
+  {
+    "id": "TRX-001",
+    "userId": "U001",
+    "items": [
+      { "id": "k1", "nama": "Jaket Almamater Premium", "harga": 250000, "qty": 1, "gambar": "https://placehold.co/500x500/1e293b/FFF?text=Jaket" }
+    ],
+    "total": 250000,
+    "status": "SELESAI",
+    "tanggal": "20 Agu 2024, 14:30",
+    "metode": "Transfer BNI"
+  },
+  {
+    "id": "TRX-002",
+    "userId": "U001",
+    "items": [
+      { "id": "k2", "nama": "Buku Pengantar Bisnis", "harga": 85000, "qty": 1, "gambar": "https://placehold.co/500x500/cbd5e1/1e293b?text=Buku" }
+    ],
+    "total": 90000,
+    "status": "DIKEMAS",
+    "tanggal": "25 Agu 2024, 09:15",
+    "metode": "QRIS",
+    "catatan": "Tolong dibungkus rapi"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "JUR-RPL",
+    "jenjang": "SMK",
+    "nama": "Rekayasa Perangkat Lunak",
+    "fakultas": "Teknologi Informasi",
+    "logo": "https://placehold.co/150x150/f97316/ffffff?text=RPL",
+    "ikon": "Code",
+    "akreditasi": "A (Unggul)",
+    "durasi": "3 Tahun",
+    "deskripsi": "Mencetak programmer dan developer aplikasi yang handal dengan kurikulum berbasis industri software house.",
+    "gambar": "https://placehold.co/1920x800/7c2d12/FFF?text=Lab+Coding",
+    "biaya": 0,
+    "kampus": "Gedung TI",
+    "kurikulum": [
+      { "semester": 1, "mataKuliah": ["Pemrograman Dasar", "Sistem Komputer", "Desain Grafis", "Dasar Kejuruan"] },
+      { "semester": 2, "mataKuliah": ["Pemrograman Web", "Basis Data", "PBO (Java)", "Produk Kreatif"] }
+    ],
+    "prospekKarir": ["Web Developer", "Mobile App Developer", "UI/UX Designer", "IT Support"],
+    "rincian_biaya": {
+        "dana_sumbangan_pendidikan": 0,
+        "sumbangan_pembinaan_pendidikan": 0,
+        "biaya_per_sks": 0,
+        "estimasi_jumlah_sks": 0,
+        "biaya_praktikum": 0,
+        "biaya_matrikulasi": 0,
+        "biaya_seminar_proposal": 0,
+        "biaya_sidang_skripsi": 0,
+        "biaya_wisuda": 0
+    }
+  },
+  {
+    "id": "JUR-TKJ",
+    "jenjang": "SMK",
+    "nama": "Teknik Komputer & Jaringan",
+    "fakultas": "Teknologi Informasi",
+    "logo": "https://placehold.co/150x150/3b82f6/ffffff?text=TKJ",
+    "ikon": "Wifi",
+    "akreditasi": "A",
+    "durasi": "3 Tahun",
+    "deskripsi": "Ahli dalam instalasi jaringan, administrasi server, dan troubleshooting perangkat keras komputer.",
+    "gambar": "https://placehold.co/1920x800/1e40af/FFF?text=Lab+Jaringan",
+    "biaya": 0,
+    "kampus": "Gedung TI",
+    "kurikulum": [
+      { "semester": 1, "mataKuliah": ["Komputer & Jaringan Dasar", "Teknologi Layanan Jaringan", "Administrasi Sistem", "IoT"] },
+      { "semester": 2, "mataKuliah": ["Administrasi Infrastruktur", "Keamanan Jaringan", "Fiber Optik", "Mikrotik"] }
+    ],
+    "prospekKarir": ["Network Engineer", "Server Administrator", "IT Support", "Teknisi Fiber Optik"],
+    "rincian_biaya": {
+        "dana_sumbangan_pendidikan": 0,
+        "sumbangan_pembinaan_pendidikan": 0,
+        "biaya_per_sks": 0,
+        "estimasi_jumlah_sks": 0,
+        "biaya_praktikum": 0,
+        "biaya_matrikulasi": 0,
+        "biaya_seminar_proposal": 0,
+        "biaya_sidang_skripsi": 0,
+        "biaya_wisuda": 0
+    }
+  },
+  {
+    "id": "JUR-AKL",
+    "jenjang": "SMK",
+    "nama": "Akuntansi & Keuangan Lembaga",
+    "fakultas": "Bisnis Manajemen",
+    "logo": "https://placehold.co/150x150/a855f7/ffffff?text=AKL",
+    "ikon": "DollarSign",
+    "akreditasi": "A",
+    "durasi": "3 Tahun",
+    "deskripsi": "Menyiapkan tenaga administrasi keuangan yang teliti, jujur, dan kompeten dalam pengelolaan kas dan pajak.",
+    "gambar": "https://placehold.co/1920x800/581c87/FFF?text=Bank+Mini",
+    "biaya": 0,
+    "kampus": "Gedung Bisnis",
+    "kurikulum": [
+      { "semester": 1, "mataKuliah": ["Akuntansi Dasar", "Perbankan Dasar", "Spreadsheet", "Etika Profesi"] },
+      { "semester": 2, "mataKuliah": ["Akuntansi Keuangan", "Komputer Akuntansi (MYOB)", "Perpajakan", "Produk Kreatif"] }
+    ],
+    "prospekKarir": ["Staff Administrasi", "Teller Bank", "Kasir", "Staff Pajak"],
+    "rincian_biaya": {
+        "dana_sumbangan_pendidikan": 0,
+        "sumbangan_pembinaan_pendidikan": 0,
+        "biaya_per_sks": 0,
+        "estimasi_jumlah_sks": 0,
+        "biaya_praktikum": 0,
+        "biaya_matrikulasi": 0,
+        "biaya_seminar_proposal": 0,
+        "biaya_sidang_skripsi": 0,
+        "biaya_wisuda": 0
+    }
+  },
+  {
+    "id": "JUR-TBSM",
+    "jenjang": "SMK",
+    "nama": "Teknik Bisnis Sepeda Motor",
+    "fakultas": "Teknologi Otomotif",
+    "logo": "https://placehold.co/150x150/ef4444/ffffff?text=TBSM",
+    "ikon": "Settings",
+    "akreditasi": "B",
+    "durasi": "3 Tahun",
+    "deskripsi": "Mencetak mekanik handal yang bekerjasama dengan industri otomotif ternama (Honda/Yamaha).",
+    "gambar": "https://placehold.co/1920x800/991b1b/FFF?text=Bengkel+Motor",
+    "biaya": 0,
+    "kampus": "Workshop Otomotif",
+    "kurikulum": [
+      { "semester": 1, "mataKuliah": ["Gambar Teknik Otomotif", "Teknologi Dasar Otomotif", "Pekerjaan Dasar Teknik", "K3LH"] },
+      { "semester": 2, "mataKuliah": ["Pemeliharaan Mesin", "Sasis Sepeda Motor", "Kelistrikan", "Produk Kreatif"] }
+    ],
+    "prospekKarir": ["Mekanik", "Service Advisor", "Wirausaha Bengkel", "Operator Industri"],
+    "rincian_biaya": {
+        "dana_sumbangan_pendidikan": 0,
+        "sumbangan_pembinaan_pendidikan": 0,
+        "biaya_per_sks": 0,
+        "estimasi_jumlah_sks": 0,
+        "biaya_praktikum": 0,
+        "biaya_matrikulasi": 0,
+        "biaya_seminar_proposal": 0,
+        "biaya_sidang_skripsi": 0,
+        "biaya_wisuda": 0
+    }
+  }
+]

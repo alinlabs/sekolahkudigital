@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": "KLS-11-RPL-1",
+    "nama": "XI RPL 1",
+    "tingkat": 11,
+    "jurusan": "Rekayasa Perangkat Lunak",
+    "ruang": "Lab RPL 1",
+    "wali_kelas_id": 3,
+    "siswa_ids": ["SISWA-001", "SISWA-004", "SISWA-005"]
+  },
+  {
+    "id": "KLS-11-AKL-2",
+    "nama": "XI AKL 2",
+    "tingkat": 11,
+    "jurusan": "Akuntansi",
+    "ruang": "R.205",
+    "wali_kelas_id": 5,
+    "siswa_ids": ["SISWA-002", "SISWA-006"]
+  },
+  {
+    "id": "KLS-12-TKJ-1",
+    "nama": "XII TKJ 1",
+    "tingkat": 12,
+    "jurusan": "Teknik Komputer Jaringan",
+    "ruang": "Lab Jaringan",
+    "wali_kelas_id": 4,
+    "siswa_ids": ["SISWA-003"]
+  },
+  {
+    "id": "KLS-10-TBSM-1",
+    "nama": "X TBSM 1",
+    "tingkat": 10,
+    "jurusan": "Teknik Bisnis Sepeda Motor",
+    "ruang": "Bengkel 1",
+    "wali_kelas_id": 6,
+    "siswa_ids": []
+  }
+]

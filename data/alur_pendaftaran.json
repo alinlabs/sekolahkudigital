@@ -1,0 +1,8 @@
+
+[
+  { "step": "1", "judul": "Registrasi Akun", "deskripsi": "Buat akun pendaftaran menggunakan email aktif dan nomor WhatsApp." },
+  { "step": "2", "judul": "Lengkapi Biodata", "deskripsi": "Isi formulir data diri, data orang tua, dan asal sekolah sesuai dokumen resmi." },
+  { "step": "3", "judul": "Pembayaran", "deskripsi": "Lakukan pembayaran biaya pendaftaran melalui Virtual Account atau Transfer Bank." },
+  { "step": "4", "judul": "Ujian Seleksi", "deskripsi": "Ikuti Tes Potensi Akademik (TPA) secara online atau seleksi berkas (Jalur Prestasi)." },
+  { "step": "5", "judul": "Daftar Ulang", "deskripsi": "Jika dinyatakan Lulus, lakukan daftar ulang dan pembayaran biaya awal kuliah." }
+]

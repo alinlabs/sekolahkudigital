@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": "ABS-20241025-001",
+    "tanggal": "2024-10-25",
+    "siswa_id": "SISWA-001",
+    "status": "HADIR",
+    "waktu_masuk": "06:45",
+    "lokasi": "Gerbang Utama"
+  },
+  {
+    "id": "ABS-20241025-002",
+    "tanggal": "2024-10-25",
+    "siswa_id": "SISWA-002",
+    "status": "TERLAMBAT",
+    "waktu_masuk": "07:15",
+    "lokasi": "Lobby"
+  },
+  {
+    "id": "ABS-20241025-003",
+    "tanggal": "2024-10-25",
+    "siswa_id": "SISWA-003",
+    "status": "IZIN",
+    "waktu_masuk": "-",
+    "keterangan": "Sakit Demam (Surat Dokter terlampir)"
+  },
+  {
+    "id": "ABS-20241025-004",
+    "tanggal": "2024-10-25",
+    "siswa_id": "SISWA-004",
+    "status": "HADIR",
+    "waktu_masuk": "06:55",
+    "lokasi": "Gerbang Belakang"
+  },
+  {
+    "id": "ABS-20241025-005",
+    "tanggal": "2024-10-25",
+    "siswa_id": "SISWA-005",
+    "status": "ALPHA",
+    "waktu_masuk": "-",
+    "keterangan": "Tanpa Keterangan"
+  }
+]

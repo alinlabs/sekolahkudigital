@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    
+    <!-- Optimasi Mobile & iOS Notch (viewport-fit=cover) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+    
+    <!-- SEO & Metadata -->
+    <meta name="robots" content="index, follow" />
+    <meta name="author" content="SekolahKu Digital" />
+    <meta name="description" content="SekolahKu Digital - Platform Manajemen Sekolah Terintegrasi. Solusi pendidikan masa depan." />
+    
+    <!-- PWA & Mobile App Mode -->
+    <meta name="theme-color" content="#4f46e5" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="SekolahKu Digital" />
+    
+    <!-- Favicon Placeholder (Dynamic update via App.tsx) -->
+    <link rel="icon" type="image/png" href="https://placehold.co/192x192/4f46e5/ffffff?text=SKD" />
+
+    <title>SekolahKu Digital - Platform Pendidikan Masa Depan</title>
+    <link rel="manifest" href="./manifest.json" />
+    
+    <!-- Preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://placehold.co">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+            },
+            colors: {
+              brand: {
+                50: '#eef2ff', // Indigo 50
+                100: '#e0e7ff',
+                500: '#6366f1', // Indigo 500
+                600: '#4f46e5', // Indigo 600
+                700: '#4338ca', // Indigo 700
+                800: '#3730a3',
+                900: '#312e81',
+              },
+              secondary: {
+                500: '#f97316', // Orange 500
+              }
+            },
+            animation: {
+              'float': 'float 6s ease-in-out infinite',
+              'float-delayed': 'float 6s ease-in-out 3s infinite',
+              'spin-slow': 'spin 60s linear infinite',
+              'pulse-slow': 'pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+              'blob': 'blob 7s infinite',
+              'scroll': 'scroll 30s linear infinite',
+              'shimmer': 'shimmer 2s linear infinite',
+              'fade-in-up': 'fadeInUp 0.5s ease-out forwards',
+              'bounce-in': 'bounceIn 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55) forwards',
+            },
+            keyframes: {
+              float: {
+                '0%, 100%': { transform: 'translateY(0)' },
+                '50%': { transform: 'translateY(-20px)' },
+              },
+              blob: {
+                '0%': { transform: 'translate(0px, 0px) scale(1)' },
+                '33%': { transform: 'translate(30px, -50px) scale(1.1)' },
+                '66%': { transform: 'translate(-20px, 20px) scale(0.9)' },
+                '100%': { transform: 'translate(0px, 0px) scale(1)' },
+              },
+              scroll: {
+                '0%': { transform: 'translateX(0)' },
+                '100%': { transform: 'translateX(-50%)' },
+              },
+              shimmer: {
+                '0%': { backgroundPosition: '200% 0' },
+                '100%': { backgroundPosition: '-200% 0' }
+              },
+              fadeInUp: {
+                '0%': { opacity: '0', transform: 'translateY(20px)' },
+                '100%': { opacity: '1', transform: 'translateY(0)' },
+              },
+              bounceIn: {
+                '0%': { opacity: '0', transform: 'scale(0.3)' },
+                '50%': { opacity: '1', transform: 'scale(1.05)' },
+                '70%': { transform: 'scale(0.9)' },
+                '100%': { transform: 'scale(1)' },
+              }
+            }
+          },
+        },
+      }
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@^19.2.4",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.4/",
+    "react/": "https://esm.sh/react@^19.2.4/",
+    "lucide-react": "https://esm.sh/lucide-react@^0.563.0",
+    "framer-motion": "https://esm.sh/framer-motion@^12.29.2",
+    "@emailjs/browser": "https://esm.sh/@emailjs/browser@^4.4.1",
+    "path": "https://esm.sh/path@^0.12.7",
+    "vite": "https://esm.sh/vite@^7.3.1",
+    "@vitejs/plugin-react": "https://esm.sh/@vitejs/plugin-react@^5.1.2",
+    "html5-qrcode": "https://esm.sh/html5-qrcode@^2.3.8",
+    "recharts": "https://esm.sh/recharts@^3.7.0"
+  }
+}
+</script>
+  <script type="module" crossorigin src="./assets/index-1DI6Ydub.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-9ms75FlY.css">
+</head>
+  <body class="bg-slate-50 text-slate-900 overflow-x-hidden selection:bg-brand-500 selection:text-white">
+    <div id="root"></div>
+</body>
+</html>

@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": 1,
+    "nip": "197501012000031001",
+    "nuptk": "1234567890123456",
+    "nama": "Dr. H. Dadang, M.Pd",
+    "gelar_depan": "Dr. H.",
+    "gelar_belakang": "M.Pd",
+    "peran": "Kepala Sekolah",
+    "struktur": "Pimpinan",
+    "status_kepegawaian": "PNS",
+    "pendidikan_terakhir": "S3 Manajemen Pendidikan",
+    "gambar": "https://placehold.co/200x200/1e293b/ffffff?text=Kepsek",
+    "mataKuliah": ["Manajemen Sekolah"],
+    "email": "kepsek@sekolahku-digital.id",
+    "telepon": "081122334455",
+    "biografi": "Memiliki pengalaman lebih dari 20 tahun dalam memimpin institusi pendidikan vokasi dan peraih penghargaan Kepala Sekolah Berprestasi."
+  },
+  {
+    "id": 3,
+    "nip": "198505202010011005",
+    "nuptk": "9876543210987654",
+    "nama": "Budi Santoso, S.Kom., M.T.",
+    "gelar_depan": "",
+    "gelar_belakang": "S.Kom., M.T.",
+    "peran": "Kaprog RPL",
+    "struktur": "Prodi",
+    "status_kepegawaian": "GTY",
+    "pendidikan_terakhir": "S2 Teknik Informatika",
+    "gambar": "https://placehold.co/200x200/475569/ffffff?text=Kaprog+RPL",
+    "mataKuliah": ["Pemrograman Web", "Basis Data", "PBO"],
+    "email": "budi.santoso@sekolahku-digital.id",
+    "telepon": "081234567899",
+    "biografi": "Praktisi IT Fullstack Developer dan pengembang kurikulum berbasis industri software house."
+  },
+  {
+    "id": 5,
+    "nip": "-",
+    "nuptk": "5566778899001122",
+    "nama": "Rina Melati, S.Pd.",
+    "gelar_depan": "",
+    "gelar_belakang": "S.Pd.",
+    "peran": "Guru Umum",
+    "struktur": "Guru",
+    "status_kepegawaian": "GTT",
+    "pendidikan_terakhir": "S1 Pendidikan Bahasa Inggris",
+    "gambar": "https://placehold.co/200x200/94a3b8/ffffff?text=Bu+Rina",
+    "mataKuliah": ["Bahasa Inggris", "Komunikasi Bisnis"],
+    "email": "rina.melati@sekolahku-digital.id",
+    "telepon": "085711223344",
+    "biografi": "Aktif membimbing siswa dalam kompetisi debat bahasa Inggris tingkat nasional."
+  },
+  {
+    "id": 4,
+    "nip": "199002022019031008",
+    "nama": "Irwan Setiawan, S.T.",
+    "peran": "Guru Produktif TKJ",
+    "struktur": "Guru",
+    "status_kepegawaian": "GTY",
+    "pendidikan_terakhir": "S1 Teknik Elektro",
+    "gambar": "https://placehold.co/200x200/64748b/ffffff?text=Pak+Irwan",
+    "mataKuliah": ["Administrasi Infrastruktur Jaringan", "Teknologi Layanan Jaringan"],
+    "email": "irwan@sekolahku-digital.id",
+    "biografi": "Memiliki sertifikasi MikroTik MTCNA & MTCRE."
+  }
+]

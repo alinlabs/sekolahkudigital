@@ -1,0 +1,358 @@
+
+{
+  "identitas": {
+    "nama": "SekolahKu Digital",
+    "logo": "https://placehold.co/200x200/4f46e5/ffffff?text=SKD",
+    "slogan": "Platform Pendidikan Masa Depan",
+    "deskripsi": "Solusi manajemen sekolah terintegrasi berbasis digital. Mewujudkan ekosistem pendidikan yang modern, efisien, dan transparan.",
+    "teks_footer": "© 2025 SekolahKu Digital. Transformasi Pendidikan Indonesia.",
+    "kontak": {
+      "email": "info@sekolahku-digital.id",
+      "telepon": "(021) 8224690",
+      "alamat": "Menara Digital, Jl. Teknologi No.1, Jakarta"
+    },
+    "sosial": {
+      "twitter": "#",
+      "instagram": "https://www.instagram.com/sekolahku_digital/",
+      "linkedin": "#"
+    },
+    "navigasi_footer": [
+      {
+        "judul": "Layanan Akademik",
+        "item": [
+          { "label": "Program Keahlian", "url": "#/studi" },
+          { "label": "E-Learning", "url": "#/studi" },
+          { "label": "Sistem Informasi", "url": "#/studi" }
+        ]
+      },
+      {
+        "judul": "Kesiswaan & Karir",
+        "item": [
+          { "label": "Organisasi Siswa", "url": "#/organisasi" },
+          { "label": "Pusat Prestasi", "url": "#/prestasi" },
+          { "label": "Bursa Kerja (BKK)", "url": "#/karir" }
+        ]
+      }
+    ]
+  },
+  "metadata_global": {
+    "default": {
+      "judul": "SekolahKu Digital - Platform Pendidikan Terintegrasi",
+      "deskripsi": "SekolahKu Digital adalah platform manajemen sekolah modern yang mengintegrasikan akademik, kesiswaan, dan administrasi dalam satu pintu.",
+      "gambar": "https://placehold.co/1200x630/4f46e5/ffffff?text=SekolahKu+Digital"
+    }
+  },
+  "pengguna": [
+    {
+      "id": "U001",
+      "username": "siswa1",
+      "nama": "Alex Johnson",
+      "peran": "STUDENT",
+      "id_nomor": "202300123",
+      "prodi": "RPL",
+      "avatar": "https://placehold.co/200x200/cbd5e1/1e293b?text=Alex"
+    },
+    {
+      "id": "U002",
+      "username": "guru1",
+      "nama": "Budi Santoso",
+      "peran": "TEACHER",
+      "id_nomor": "19880101",
+      "prodi": "RPL",
+      "avatar": "https://placehold.co/200x200/f1f5f9/1e293b?text=Budi"
+    },
+    {
+      "id": "U003",
+      "username": "osis",
+      "nama": "Ketua OSIS",
+      "peran": "STUDENT",
+      "id_nomor": "202200555",
+      "prodi": "TKJ",
+      "avatar": "https://placehold.co/200x200/eab308/ffffff?text=OSIS"
+    }
+  ],
+  "halaman": {
+    "beranda": {
+      "metadata": { 
+        "title": "Beranda - SekolahKu Digital", 
+        "description": "Platform Sekolah Digital Terdepan. Membangun Generasi Unggul melalui Teknologi.",
+        "image": "https://placehold.co/1200x630/4f46e5/ffffff?text=SekolahKu+Home" 
+      },
+      "banner": {
+        "badge": "Pendaftaran Online 2025/2026",
+        "barisJudul1": "Transformasi",
+        "sorotanJudul": "Sekolah Digital",
+        "barisJudul2": "Masa Depan",
+        "deskripsi": "Sistem manajemen sekolah berbasis cloud dengan fitur Teaching Factory, LMS, dan administrasi terpadu.",
+        "backgroundLatar": "https://placehold.co/1920x1080/1e293b/ffffff?text=Video+Profil+Sekolah",
+        "statistik": {
+          "teks": "Tingkat Kepuasan Pengguna",
+          "subteks": "Siswa, Guru, Orang Tua",
+          "jumlah": "98%",
+          "userAvatars": [
+            "https://placehold.co/100x100/cbd5e1/1e293b?text=AL",
+            "https://placehold.co/100x100/e2e8f0/475569?text=BM",
+            "https://placehold.co/100x100/f1f5f9/64748b?text=CN",
+            "https://placehold.co/100x100/f8fafc/94a3b8?text=DO"
+          ]
+        }
+      },
+      "mitra": ["Google Education", "Microsoft", "Ruangguru", "Telkom"],
+      "testimoni": [
+        {
+          "teks": "Sistem SekolahKu Digital sangat memudahkan akses materi dan nilai.",
+          "penulis": "Rina Sartika",
+          "peran": "Alumni 2023",
+          "gambar": "https://placehold.co/100x100/cbd5e1/1e293b?text=RS"
+        },
+        {
+          "teks": "Fitur BKK digital membantu saya langsung dapat kerja setelah lulus.",
+          "penulis": "Siti Nurhaliza",
+          "peran": "Alumni Akuntansi",
+          "gambar": "https://placehold.co/100x100/f1f5f9/64748b?text=SN"
+        }
+      ],
+      "seksi": {
+        "info_fasilitas": {
+          "judul": "Fasilitas Digital",
+          "deskripsi": "Laboratorium komputer modern dan infrastruktur cloud untuk mendukung pembelajaran."
+        },
+        "pendaftaran": {
+          "judul": "Gabung SekolahKu",
+          "badge": "PPDB Online"
+        },
+        "info_galeri": {
+          "judul": "Aktivitas Sekolah"
+        },
+        "info_koperasi": {
+          "judul": "Digital TeFa Store",
+          "deskripsi": "Marketplace produk kreatif siswa dan kebutuhan sekolah."
+        }
+      }
+    },
+    "ejournal": {
+      "metadata": { 
+        "title": "E-Library - SekolahKu Digital", 
+        "description": "Perpustakaan Digital dan Repositori Karya Ilmiah."
+      },
+      "hero": {
+        "judul": "E-Library & Inovasi",
+        "deskripsi": "Akses ribuan literasi digital dan karya inovasi siswa.",
+        "badge": "Digital Library",
+        "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=E-Library"
+      },
+      "kategori": ["Teknologi", "Bisnis", "Seni", "Otomotif"],
+      "statistik": {
+        "volume": 10,
+        "sitasi": "500+",
+        "h_index": 5
+      }
+    },
+    "tentang": {
+      "metadata": { 
+        "title": "Tentang Kami - SekolahKu Digital", 
+        "description": "Visi, Misi, dan Sejarah Transformasi SekolahKu Digital.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Tentang+Kami"
+      },
+      "hero": {
+        "judul": "Tentang SekolahKu Digital",
+        "deskripsi": "Pionir pendidikan berbasis teknologi sejak 2001.",
+        "badge": "Profil",
+        "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=About"
+      },
+      "ringkasan": {
+        "judul": "Inovatif & Berkarakter",
+        "deskripsi": "Berkomitmen mencetak generasi emas yang melek digital dan berakhlak mulia.",
+        "gambar": "https://placehold.co/800x600/cbd5e1/1e293b?text=Smart+Class",
+        "badge": "Sekolah Penggerak",
+        "statistik": [
+          { "label": "Tahun Inovasi", "nilai": 24, "akhiran": " Th", "ikon": "Target" },
+          { "label": "Talenta Digital", "nilai": 1200, "akhiran": "+", "ikon": "Users" },
+          { "label": "Mitra Teknologi", "nilai": 50, "akhiran": "+", "ikon": "Award" }
+        ]
+      },
+      "visi_misi": {
+        "visi": "Menjadi platform pendidikan terdepan yang menghasilkan lulusan kompeten di era digital.",
+        "misi": ["Implementasi Smart School System", "Pengembangan kurikulum berbasis industri 4.0", "Penguatan karakter profil pelajar Pancasila"]
+      },
+      "sejarah": [
+        {
+          "tahun": "2001",
+          "judul": "Awal Mula",
+          "deskripsi": "Didirikan sebagai sekolah kejuruan konvensional.",
+          "gambar": "https://placehold.co/600x400/94a3b8/1e293b?text=Gedung+Lama"
+        },
+        {
+          "tahun": "2024",
+          "judul": "Transformasi Digital",
+          "deskripsi": "Rebranding menjadi SekolahKu Digital dengan sistem terintegrasi.",
+          "gambar": "https://placehold.co/600x400/4f46e5/ffffff?text=Transformasi"
+        }
+      ]
+    },
+    "pendaftaran": {
+      "metadata": { 
+        "title": "PPDB Online - SekolahKu Digital", 
+        "description": "Sistem Penerimaan Peserta Didik Baru Terintegrasi. Daftar dari rumah!",
+        "image": "https://placehold.co/1200x630/4f46e5/ffffff?text=PPDB+Online"
+      },
+      "hero": {
+        "judul": "Penerimaan Peserta Didik Baru",
+        "deskripsi": "Bergabunglah dengan ekosistem pendidikan masa depan.",
+        "badge": "PPDB Online",
+        "backgroundLatar": "https://placehold.co/1920x800/4f46e5/ffffff?text=PPDB"
+      },
+      "gelombang": [
+        {
+          "nama": "Gelombang 1 (Prestasi Digital)",
+          "tanggal": "1 Jan - 31 Mar 2025",
+          "status": "Tutup",
+          "deskripsi": "Jalur khusus siswa dengan portofolio digital atau prestasi akademik.",
+          "ujian": "Review Portofolio",
+          "pengumuman": "3 Hari Kerja"
+        },
+        {
+          "nama": "Gelombang 2 (Reguler CBT)",
+          "tanggal": "1 Apr - 30 Jun 2025",
+          "status": "Buka",
+          "deskripsi": "Jalur umum menggunakan Computer Based Test (CBT) online.",
+          "ujian": "CBT Online",
+          "pengumuman": "Real-time"
+        },
+        {
+          "nama": "Gelombang 3 (Mandiri)",
+          "tanggal": "1 Jul - 31 Agu 2025",
+          "status": "Segera",
+          "deskripsi": "Kesempatan terakhir bergabung sebelum tahun ajaran baru.",
+          "ujian": "Wawancara",
+          "pengumuman": "Langsung"
+        }
+      ],
+      "alur": [
+        { "step": "1", "judul": "Buat Akun", "desc": "Registrasi akun SekolahKu Digital dengan email." },
+        { "step": "2", "judul": "Isi Data", "desc": "Lengkapi biodata dan upload dokumen secara digital." },
+        { "step": "3", "judul": "Bayar & Validasi", "desc": "Pembayaran online otomatis terverifikasi sistem." },
+        { "step": "4", "judul": "Tes Online", "desc": "Kerjakan tes seleksi dari perangkat masing-masing." },
+        { "step": "5", "judul": "Hasil & Daftar Ulang", "desc": "Cek kelulusan dan lakukan daftar ulang di dashboard." }
+      ],
+      "biaya": [
+        {
+          "kategori": "REGISTRASI",
+          "total": 650000,
+          "nilai_angka": { "daftar": 300000, "jaket": 250000, "id_card": 100000 }
+        },
+        {
+          "kategori": "BIAYA PENDIDIKAN",
+          "fakultas": "Semua Program",
+          "total": 4500000,
+          "nilai_angka": { "dsp": 3500000, "spp": 450000, "praktik": 85000, "platform": 150000, "mpls": 250000 }
+        }
+      ]
+    },
+    "akademik": {
+      "hero": { "judul": "Program Keahlian", "badge": "Akademik", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Jurusan" },
+      "filter": ["All", "Teknologi Informasi", "Bisnis Digital", "Teknik"],
+      "metadata": { 
+        "title": "Program Keahlian - SekolahKu Digital", 
+        "description": "Pilihan jurusan relevan dengan kebutuhan industri digital.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Jurusan"
+      }
+    },
+    "karir": {
+      "hero": { "judul": "Karir & Pengembangan", "badge": "BKK Digital", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=BKK" },
+      "mitra": ["Astra", "Tokopedia", "Gojek", "Microsoft"],
+      "metadata": { 
+        "title": "Pusat Karir - SekolahKu Digital", 
+        "description": "Menghubungkan talenta digital dengan industri global.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=BKK"
+      }
+    },
+    "organisasi": {
+      "hero": { "judul": "Student Activities", "badge": "Ekstrakurikuler", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Ekskul" },
+      "metadata": { 
+        "title": "Organisasi Siswa - SekolahKu Digital", 
+        "description": "Pengembangan soft skill dan kepemimpinan siswa.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Ekskul"
+      }
+    },
+    "berita": {
+      "hero": { "judul": "Kabar Sekolah", "badge": "News Update", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=News" },
+      "kategori": ["Semua", "Teknologi", "Prestasi"],
+      "metadata": { 
+        "title": "Berita & Artikel - SekolahKu Digital", 
+        "description": "Informasi terkini seputar kegiatan dan prestasi sekolah.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Berita"
+      }
+    },
+    "galeri": {
+      "hero": { "judul": "Galeri Visual", "badge": "Dokumentasi", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Gallery" },
+      "kategori": ["Semua", "Fasilitas", "Kegiatan"],
+      "metadata": { 
+        "title": "Galeri - SekolahKu Digital", 
+        "description": "Arsip visual kegiatan dan fasilitas SekolahKu Digital.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Galeri"
+      }
+    },
+    "prestasi": {
+      "hero_alumni": { "judul": "Alumni Sukses", "deskripsi": "Jejak langkah alumni di industri digital.", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Alumni" },
+      "hero_mahasiswa": { "judul": "Hall of Fame", "deskripsi": "Deretan prestasi siswa membanggakan.", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Prestasi" },
+      "metadata": { 
+        "title": "Prestasi - SekolahKu Digital", 
+        "description": "Pencapaian gemilang siswa dan alumni SekolahKu Digital.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Prestasi"
+      }
+    },
+    "koperasi": {
+      "hero": { "judul": "Digital Store", "badge": "TeFa Market", "deskripsi": "Platform jual beli produk kreatif siswa.", "backgroundLatar": "https://placehold.co/1920x800/1e293b/ffffff?text=Store" },
+      "info_bank": { "bank": "BNI", "nomor": "123-456-7890", "atasNama": "SekolahKu Digital Store" },
+      "metadata": { 
+        "title": "Store - SekolahKu Digital", 
+        "description": "Marketplace resmi produk Teaching Factory.",
+        "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Store"
+      }
+    }
+  },
+  "data_induk": {
+    "ejournal": [],
+    "program_studi": [
+      {
+        "id": "JUR-RPL",
+        "jenjang": "SMK",
+        "nama": "Rekayasa Perangkat Lunak",
+        "fakultas": "Teknologi Informasi",
+        "logo": "https://placehold.co/150x150/f97316/ffffff?text=RPL",
+        "ikon": "Code",
+        "akreditasi": "A (Unggul)",
+        "durasi": "3 Tahun",
+        "deskripsi": "Mencetak programmer dan developer aplikasi yang handal.",
+        "gambar": "https://placehold.co/1920x800/7c2d12/FFF?text=Lab+Coding",
+        "biaya": 0,
+        "kampus": "Gedung TI",
+        "kurikulum": [
+          { "semester": 1, "mataKuliah": ["Coding Dasar", "Logika Algoritma"] },
+          { "semester": 2, "mataKuliah": ["Web Development", "Database"] }
+        ],
+        "prospekKarir": ["Fullstack Developer", "Mobile App Dev", "UI/UX Designer"]
+      }
+    ],
+    "guru": [],
+    "siswa": [],
+    "berita": [],
+    "item_galeri": [],
+    "produk": [],
+    "transaksi": [],
+    "pendaftar": [],
+    "organisasi": [],
+    "program_karir": [],
+    "lowongan": [],
+    "alumni": [],
+    "prestasi_mahasiswa": [],
+    "pengumuman": [],
+    "kelas": [],
+    "matapelajaran": [],
+    "jadwal": [],
+    "nilai": [],
+    "tugas": [],
+    "absensi": []
+  }
+}

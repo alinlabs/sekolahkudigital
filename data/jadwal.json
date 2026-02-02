@@ -1,0 +1,9 @@
+
+[
+  { "id": "JDW-001", "hari": "Senin", "jam": "07:00 - 08:30", "kelas_id": "KLS-11-RPL-1", "mapel_id": "MP-001", "guru_id": 3 },
+  { "id": "JDW-002", "hari": "Senin", "jam": "08:30 - 10:00", "kelas_id": "KLS-11-RPL-1", "mapel_id": "MP-002", "guru_id": 3 },
+  { "id": "JDW-003", "hari": "Senin", "jam": "10:15 - 11:45", "kelas_id": "KLS-11-RPL-1", "mapel_id": "MP-005", "guru_id": 5 },
+  { "id": "JDW-004", "hari": "Selasa", "jam": "07:00 - 08:30", "kelas_id": "KLS-11-RPL-1", "mapel_id": "MP-004", "guru_id": 1 },
+  { "id": "JDW-005", "hari": "Selasa", "jam": "07:00 - 09:00", "kelas_id": "KLS-12-TKJ-1", "mapel_id": "MP-007", "guru_id": 4 },
+  { "id": "JDW-006", "hari": "Rabu", "jam": "08:00 - 10:00", "kelas_id": "KLS-11-AKL-2", "mapel_id": "MP-009", "guru_id": 2 }
+]

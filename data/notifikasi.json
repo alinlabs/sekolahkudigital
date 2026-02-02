@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": 1729837200000,
+    "tipe": "INFO",
+    "judul": "Jadwal Mengajar Diperbarui",
+    "pesan": "Terdapat perubahan jadwal untuk mata pelajaran Produktif RPL kelas XI. Silakan cek menu Jadwal Mengajar untuk detail terbaru.",
+    "target": "guru",
+    "id_referensi": null,
+    "gambar": "",
+    "waktu": 1729837200000
+  },
+  {
+    "id": 1729840800000,
+    "tipe": "WARNING",
+    "judul": "Batas Input Nilai Rapor",
+    "pesan": "Penginputan nilai rapor semester ganjil akan ditutup 2 hari lagi. Mohon segera selesaikan penilaian.",
+    "target": "guru",
+    "id_referensi": null,
+    "gambar": "",
+    "waktu": 1729840800000
+  },
+  {
+    "id": 1729927200000,
+    "tipe": "SUCCESS",
+    "judul": "Pembayaran Terverifikasi",
+    "pesan": "Transaksi pembayaran SPP bulan ini telah berhasil diverifikasi oleh sistem keuangan.",
+    "target": "siswa",
+    "id_referensi": "SISWA-001",
+    "gambar": "https://placehold.co/600x400/e0e7ff/4338ca?text=Bukti+Lunas",
+    "waktu": 1729927200000
+  },
+  {
+    "id": 1730013600000,
+    "tipe": "INFO",
+    "judul": "Libur Nasional",
+    "pesan": "Sehubungan dengan hari raya, kegiatan KBM diliburkan pada tanggal merah. Selamat berlibur.",
+    "target": "semua",
+    "id_referensi": null,
+    "gambar": "https://placehold.co/600x400/fff7ed/ea580c?text=Libur",
+    "waktu": 1730013600000
+  }
+]

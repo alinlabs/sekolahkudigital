@@ -1,0 +1,75 @@
+
+[
+  { 
+    "id": 1, 
+    "judul": "Gedung Rektorat", 
+    "kategori": "Gedung", 
+    "deskripsi": "Pusat administrasi dan pelayanan mahasiswa terpadu.", 
+    "lokasi": "Kampus Pusat", 
+    "gambar": "https://placehold.co/800x600/1e293b/FFF?text=Gedung+Utama" 
+  },
+  { 
+    "id": 2, 
+    "judul": "Wisuda XIX", 
+    "kategori": "Kegiatan", 
+    "deskripsi": "Prosesi wisuda khidmat tahun akademik 2024/2025.", 
+    "lokasi": "Ballroom Hotel Harper", 
+    "gambar": "https://placehold.co/800x500/be123c/FFF?text=Wisuda+2024" 
+  },
+  { 
+    "id": 3, 
+    "judul": "Lab Komputer Modern", 
+    "kategori": "Fasilitas", 
+    "deskripsi": "Laboratorium komputer dengan spesifikasi tinggi untuk praktikum.", 
+    "lokasi": "Lantai 3", 
+    "gambar": "https://placehold.co/800x600/0f172a/FFF?text=Lab+Komputer" 
+  },
+  { 
+    "id": 4, 
+    "judul": "Perpustakaan Digital", 
+    "kategori": "Fasilitas", 
+    "deskripsi": "Akses ribuan e-book dan jurnal internasional.", 
+    "lokasi": "Gedung B", 
+    "gambar": "https://placehold.co/800x600/334155/FFF?text=Perpustakaan" 
+  },
+  { 
+    "id": 5, 
+    "judul": "Masjid Kampus", 
+    "kategori": "Fasilitas", 
+    "deskripsi": "Sarana ibadah yang nyaman dan luas untuk civitas akademika.", 
+    "lokasi": "Area Selatan", 
+    "gambar": "https://placehold.co/800x600/059669/FFF?text=Masjid+Al-Ilmu" 
+  },
+  { 
+    "id": 6, 
+    "judul": "Auditorium SekolahKu", 
+    "kategori": "Gedung", 
+    "deskripsi": "Ruang serbaguna untuk seminar dan kegiatan besar.", 
+    "lokasi": "Lantai 4", 
+    "gambar": "https://placehold.co/800x600/b91c1c/FFF?text=Auditorium" 
+  },
+  { 
+    "id": 7, 
+    "judul": "Festival Budaya", 
+    "kategori": "Kegiatan", 
+    "deskripsi": "Pentas seni mahasiswa menampilkan tarian daerah.", 
+    "lokasi": "Lapangan Utama", 
+    "gambar": "https://placehold.co/800x600/d97706/FFF?text=Pentas+Seni" 
+  },
+  { 
+    "id": 8, 
+    "judul": "Kantin Sehat", 
+    "kategori": "Fasilitas", 
+    "deskripsi": "Area kuliner bersih dengan harga terjangkau.", 
+    "lokasi": "Area Belakang", 
+    "gambar": "https://placehold.co/800x600/f59e0b/FFF?text=Kantin" 
+  },
+  { 
+    "id": 9, 
+    "judul": "Ruang Kelas AC", 
+    "kategori": "Fasilitas", 
+    "deskripsi": "Ruang belajar nyaman dilengkapi proyektor multimedia.", 
+    "lokasi": "Semua Lantai", 
+    "gambar": "https://placehold.co/800x600/475569/FFF?text=Kelas+Multimedia" 
+  }
+]

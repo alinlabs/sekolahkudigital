@@ -1,0 +1,108 @@
+
+[
+  {
+    "id": "beranda",
+    "banner": {
+      "badge": "PPDB Online 2025/2026",
+      "judul": "SekolahKu Digital Pusat Keunggulan Masa Depan",
+      "deskripsi": "Sekolah vokasi modern dengan fasilitas Teaching Factory standar industri. Siap kerja, santun, mandiri, dan kreatif.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2020/04/23/36950-415142664_tiny.mp4",
+      "statistik": {
+        "teks": "Lulusan Terserap Industri",
+        "subteks": "Bekerja, Melanjutkan, Wirausaha",
+        "jumlah": "90%",
+        "userAvatars": [
+          "https://placehold.co/100x100/cbd5e1/1e293b?text=AL",
+          "https://placehold.co/100x100/e2e8f0/475569?text=BM",
+          "https://placehold.co/100x100/f1f5f9/64748b?text=CN",
+          "https://placehold.co/100x100/f8fafc/94a3b8?text=DO"
+        ]
+      }
+    }
+  },
+  {
+    "id": "tentang",
+    "hero": {
+      "judul": "SekolahKu Digital",
+      "deskripsi": "Institusi pendidikan vokasi terdepan berbasis teknologi sejak 2001.",
+      "badge": "Profil Sekolah",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2016/05/12/3172-166338958_tiny.mp4"
+    }
+  },
+  {
+    "id": "pendaftaran",
+    "hero": {
+      "judul": "Penerimaan Peserta Didik Baru",
+      "badge": "PPDB Online",
+      "deskripsi": "Wujudkan masa depan gemilang bersama SekolahKu Digital.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2016/02/29/2340-157269921_tiny.mp4"
+    }
+  },
+  {
+    "id": "akademik",
+    "hero": { 
+      "judul": "Kompetensi Keahlian",
+      "badge": "Akademik",
+      "deskripsi": "Temukan jurusan yang sesuai dengan minat dan bakatmu di era digital.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2023/10/15/185096-874643413_tiny.mp4" 
+    }
+  },
+  {
+    "id": "karir",
+    "hero": { 
+      "judul": "Bursa Kerja Khusus (BKK)",
+      "badge": "Pusat Karir",
+      "deskripsi": "Persiapkan masa depan profesional Anda dengan pelatihan dan koneksi industri terbaik.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2016/05/12/3172-166338958_tiny.mp4" 
+    }
+  },
+  {
+    "id": "organisasi",
+    "hero": { 
+      "judul": "Ekstrakurikuler", 
+      "badge": "Kesiswaan", 
+      "deskripsi": "Salurkan minat dan bakat melalui Unit Kegiatan Siswa SekolahKu Digital.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2018/12/17/20072-307163785_tiny.mp4" 
+    }
+  },
+  {
+    "id": "berita",
+    "hero": { 
+      "judul": "Berita & Kegiatan", 
+      "badge": "Update", 
+      "deskripsi": "Update terbaru seputar kegiatan sekolah dan prestasi siswa.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2021/12/06/99856-658707374_tiny.mp4" 
+    }
+  },
+  {
+    "id": "galeri",
+    "hero": { 
+      "judul": "Galeri Sekolah", 
+      "badge": "Visual", 
+      "deskripsi": "Dokumentasi visual fasilitas dan kegiatan SekolahKu Digital.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2018/12/17/20072-307163785_tiny.mp4" 
+    }
+  },
+  {
+    "id": "prestasi",
+    "hero_alumni": { 
+      "judul": "Kiprah Alumni", 
+      "deskripsi": "Jejak sukses para lulusan di dunia kerja dan wirausaha.", 
+      "backgroundLatar": "https://cdn.pixabay.com/video/2023/05/06/161887-824623422_tiny.mp4" 
+    },
+    "hero_mahasiswa": { 
+      "judul": "Siswa Berprestasi", 
+      "deskripsi": "Bukti kualitas pendidikan SekolahKu Digital.", 
+      "backgroundLatar": "https://cdn.pixabay.com/video/2023/05/06/161887-824623422_tiny.mp4" 
+    }
+  },
+  {
+    "id": "koperasi",
+    "hero": { 
+      "judul": "Teaching Factory",
+      "badge": "TeFa Store",
+      "deskripsi": "Official Merchandise Store dan Produk Kreatif Siswa.",
+      "backgroundLatar": "https://cdn.pixabay.com/video/2024/03/15/204292-923909617_tiny.mp4" 
+    }
+  }
+]

@@ -1,0 +1,33 @@
+
+[
+  {
+    "judul": "Jalur Reguler", 
+    "deskripsi": "Untuk lulusan SMA/SMK/MA sederajat.", 
+    "fitur": ["Tanpa Syarat Khusus", "Tes Potensi Akademik"]
+  },
+  {
+    "judul": "Jalur Prestasi", 
+    "deskripsi": "Tanpa tes untuk siswa berprestasi.", 
+    "fitur": ["Rapor Semester 1-5", "Sertifikat Juara"]
+  },
+  {
+    "judul": "Kelas Karyawan", 
+    "deskripsi": "Kuliah sambil bekerja.", 
+    "fitur": ["Jadwal Fleksibel", "Hybrid Learning"]
+  },
+  {
+    "judul": "Pindahan / Transfer", 
+    "deskripsi": "Lanjutkan studi Anda di sini.", 
+    "fitur": ["Konversi SKS", "Waktu Singkat"]
+  },
+  {
+    "judul": "Beasiswa KIP-K",
+    "deskripsi": "Program bantuan biaya pendidikan pemerintah.",
+    "fitur": ["Bebas UKT", "Uang Saku Bulanan"]
+  },
+  {
+    "judul": "Program Internasional",
+    "deskripsi": "Kesempatan double degree dengan mitra luar negeri.",
+    "fitur": ["Bahasa Inggris", "Dual Degree"]
+  }
+]

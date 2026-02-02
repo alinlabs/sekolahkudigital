@@ -1,0 +1,69 @@
+
+[
+  {
+    "id": "REG-2024-001",
+    "status": "LULUS",
+    "data_pribadi": {
+      "nama": "Andi Pratama",
+      "nik": "3201012001000001",
+      "ibu_kandung": "Suryani",
+      "tempat_lahir": "Purwakarta",
+      "tanggal_lahir": "2005-05-12",
+      "jenis_kelamin": "L",
+      "email": "andi@test.com",
+      "whatsapp": "081234567890"
+    },
+    "data_akademik": {
+      "jalur": "Reguler",
+      "asal_sekolah": "SMPN 1 Purwakarta",
+      "prodi1": "Rekayasa Perangkat Lunak",
+      "prodi2": "Teknik Komputer Jaringan",
+      "nilai_ujian": 85
+    },
+    "berkas": {
+      "ktp_link": "https://drive.google.com/file/d/dummy1",
+      "kk_link": "https://drive.google.com/file/d/dummy2",
+      "akta_link": "https://drive.google.com/file/d/dummy3",
+      "foto_link": "https://placehold.co/100x100?text=Foto"
+    },
+    "pembayaran": {
+      "rincian": ["Formulir Pendaftaran", "Seragam Sekolah", "Atribut"],
+      "total": 1250000,
+      "bank": "BNI - 988-1234-5678 (SekolahKu Digital)",
+      "bukti_link": "https://drive.google.com/file/d/dummy-bukti-transfer"
+    }
+  },
+  {
+    "id": "REG-2024-002",
+    "status": "PROSES",
+    "data_pribadi": {
+      "nama": "Siti Aminah",
+      "nik": "3201016002000002",
+      "ibu_kandung": "Dewi Sartika",
+      "tempat_lahir": "Subang",
+      "tanggal_lahir": "2006-01-20",
+      "jenis_kelamin": "P",
+      "email": "siti@test.com",
+      "whatsapp": "085678901234"
+    },
+    "data_akademik": {
+      "jalur": "Prestasi",
+      "asal_sekolah": "MTsN 2 Subang",
+      "prodi1": "Akuntansi",
+      "prodi2": "Manajemen Perkantoran",
+      "nilai_ujian": null
+    },
+    "berkas": {
+      "ktp_link": "https://drive.google.com/file/d/dummy4",
+      "kk_link": "https://drive.google.com/file/d/dummy5",
+      "akta_link": "https://drive.google.com/file/d/dummy6",
+      "foto_link": "https://placehold.co/100x100?text=Foto"
+    },
+    "pembayaran": {
+      "rincian": ["Formulir Pendaftaran"],
+      "total": 150000,
+      "bank": "BCA - 777-888-0000 (Yayasan SekolahKu)",
+      "bukti_link": "https://drive.google.com/file/d/dummy-bukti-transfer-2"
+    }
+  }
+]

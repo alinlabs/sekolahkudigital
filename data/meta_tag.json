@@ -1,0 +1,64 @@
+
+[
+  {
+    "id": "default",
+    "title": "SekolahKu Digital - Platform Pendidikan Terintegrasi",
+    "description": "SekolahKu Digital adalah platform manajemen sekolah modern yang mengintegrasikan akademik, kesiswaan, dan administrasi dalam satu pintu.",
+    "keywords": ["sekolah digital", "smk", "platform pendidikan", "manajemen sekolah", "rpl", "tkj", "ppdb online"],
+    "image": "https://placehold.co/1200x630/4f46e5/ffffff?text=SekolahKu+Digital",
+    "author": "SekolahKu Digital"
+  },
+  {
+    "id": "pages",
+    "beranda": {
+      "title": "Beranda - SekolahKu Digital", 
+      "description": "Platform Sekolah Digital Terdepan. Membangun Generasi Unggul melalui Teknologi.",
+      "image": "https://placehold.co/1200x630/4f46e5/ffffff?text=SekolahKu+Home" 
+    },
+    "tentang": {
+      "title": "Tentang Kami - SekolahKu Digital", 
+      "description": "Visi, Misi, dan Sejarah Transformasi SekolahKu Digital.",
+      "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Tentang+Kami"
+    },
+    "pendaftaran": {
+      "title": "PPDB Online - SekolahKu Digital", 
+      "description": "Sistem Penerimaan Peserta Didik Baru Terintegrasi. Daftar dari rumah!",
+      "image": "https://placehold.co/1200x630/4f46e5/ffffff?text=PPDB+Online"
+    },
+    "akademik": {
+      "title": "Program Keahlian - SekolahKu Digital", 
+      "description": "Pilihan jurusan relevan dengan kebutuhan industri digital.",
+      "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Jurusan"
+    },
+    "karir": {
+      "title": "Pusat Karir - SekolahKu Digital", 
+      "description": "Menghubungkan talenta digital dengan industri global.",
+      "image": "https://placehold.co/1200x630/1e293b/ffffff?text=BKK"
+    },
+    "organisasi": {
+      "title": "Organisasi Siswa - SekolahKu Digital", 
+      "description": "Pengembangan soft skill dan kepemimpinan siswa.",
+      "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Ekskul"
+    },
+    "berita": {
+      "title": "Berita & Artikel - SekolahKu Digital", 
+      "description": "Informasi terkini seputar kegiatan dan prestasi sekolah.",
+      "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Berita"
+    },
+    "galeri": {
+      "title": "Galeri - SekolahKu Digital", 
+      "description": "Arsip visual kegiatan dan fasilitas SekolahKu Digital.",
+      "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Galeri"
+    },
+    "prestasi": {
+      "title": "Prestasi - SekolahKu Digital", 
+      "description": "Pencapaian gemilang siswa dan alumni SekolahKu Digital.",
+      "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Prestasi"
+    },
+    "koperasi": {
+      "title": "Store - SekolahKu Digital", 
+      "description": "Marketplace resmi produk Teaching Factory.",
+      "image": "https://placehold.co/1200x630/1e293b/ffffff?text=Store"
+    }
+  }
+]

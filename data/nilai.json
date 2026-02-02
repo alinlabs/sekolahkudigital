@@ -1,0 +1,43 @@
+
+[
+  { 
+    "id": "GRD-001",
+    "siswa_id": "SISWA-001",
+    "guru_id": 3,
+    "mapel_id": "MP-001",
+    "semester": "Ganjil 2024/2025",
+    "nilai_pengetahuan": 88,
+    "nilai_keterampilan": 90,
+    "deskripsi": "Sangat kompeten dalam membuat layout responsif dengan Bootstrap."
+  },
+  { 
+    "id": "GRD-002",
+    "siswa_id": "SISWA-001",
+    "guru_id": 3,
+    "mapel_id": "MP-002",
+    "semester": "Ganjil 2024/2025",
+    "nilai_pengetahuan": 82,
+    "nilai_keterampilan": 85,
+    "deskripsi": "Kompeten dalam merancang ERD dan query SQL dasar."
+  },
+  { 
+    "id": "GRD-003",
+    "siswa_id": "SISWA-001",
+    "guru_id": 5,
+    "mapel_id": "MP-006",
+    "semester": "Ganjil 2024/2025",
+    "nilai_pengetahuan": 92,
+    "nilai_keterampilan": 95,
+    "deskripsi": "Sangat fasih dalam komunikasi lisan dan tulisan teknis."
+  },
+  { 
+    "id": "GRD-004",
+    "siswa_id": "SISWA-002",
+    "guru_id": 5,
+    "mapel_id": "MP-009",
+    "semester": "Ganjil 2024/2025",
+    "nilai_pengetahuan": 85,
+    "nilai_keterampilan": 88,
+    "deskripsi": "Memiliki ide produk kreatif yang inovatif."
+  }
+]

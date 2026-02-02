@@ -1,0 +1,30 @@
+
+[
+  {
+    "nama": "Gelombang 1 (Early Bird)",
+    "mulai": "01 Jan 2025",
+    "berakhir": "31 Mar 2025",
+    "status": "Tutup",
+    "deskripsi": "Jalur khusus tanpa tes untuk siswa berprestasi. Bebas biaya pendaftaran 50%.",
+    "ujian": "Seleksi Rapor / Sertifikat",
+    "pengumuman": "3 Hari Kerja"
+  },
+  {
+    "nama": "Gelombang 2 (Reguler CBT)",
+    "mulai": "01 Apr 2025",
+    "berakhir": "30 Jun 2025",
+    "status": "Buka",
+    "deskripsi": "Jalur umum menggunakan tes potensi akademik berbasis komputer (CBT).",
+    "ujian": "CBT Online (Sabtu & Minggu)",
+    "pengumuman": "1x24 Jam"
+  },
+  {
+    "nama": "Gelombang 3 (Mandiri)",
+    "mulai": "01 Jul 2025",
+    "berakhir": "31 Agu 2025",
+    "status": "Segera",
+    "deskripsi": "Kesempatan terakhir untuk bergabung sebelum masa orientasi (PKKMB).",
+    "ujian": "One Day Service",
+    "pengumuman": "Langsung di Tempat"
+  }
+]

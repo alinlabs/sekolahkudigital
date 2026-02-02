@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ADM-001",
+    "nama_biaya": "Formulir Pendaftaran",
+    "nominal": 0,
+    "deskripsi": "Biaya administrasi seleksi ditanggung sekolah.",
+    "wajib": true
+  },
+  {
+    "id": "ADM-002",
+    "nama_biaya": "Seragam Kejuruan (Estimasi)",
+    "nominal": 0,
+    "deskripsi": "Info harga kain/seragam akan diinformasikan saat daftar ulang (Koperasi).",
+    "wajib": false
+  },
+  {
+    "id": "ADM-003",
+    "nama_biaya": "Kartu Pelajar (NISN)",
+    "nominal": 0,
+    "deskripsi": "Kartu identitas siswa (Gratis).",
+    "wajib": true
+  },
+  {
+    "id": "ADM-004",
+    "nama_biaya": "Kegiatan MPLS",
+    "nominal": 0,
+    "deskripsi": "Masa Pengenalan Lingkungan Sekolah.",
+    "wajib": true
+  }
+]

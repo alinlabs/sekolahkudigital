@@ -1,0 +1,20 @@
+
+[
+  {
+    "tipe": "TRANSFER",
+    "bank": "BNI",
+    "nomor": "988-1234-5678",
+    "atasNama": "Koperasi SekolahKu"
+  },
+  {
+    "tipe": "TRANSFER",
+    "bank": "BCA",
+    "nomor": "777-888-0000",
+    "atasNama": "Yayasan SekolahKu"
+  },
+  {
+    "tipe": "QRIS",
+    "merchant": "Koperasi SekolahKu",
+    "qris": "https://placehold.co/300x300/ffffff/000000?text=QRIS+KOPERASI"
+  }
+]

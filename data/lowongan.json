@@ -1,0 +1,78 @@
+
+[
+  { 
+    "id": "LOK-001",
+    "posisi": "Operator Produksi", 
+    "perusahaan": "PT Indofood CBP Sukses Makmur Tbk", 
+    "lokasi": "Purwakarta, Jawa Barat", 
+    "tipe": "Full Time", 
+    "gaji": "UMR - 5.5 Juta", 
+    "logo": "https://placehold.co/100x100/47fa90/ffffff?text=ICBP",
+    "deskripsi": "Mengoperasikan mesin produksi dan memastikan kualitas produk sesuai standar perusahaan.",
+    "syarat": [
+      "Pendidikan min. SMK Jurusan Teknik Mesin/Otomotif/Listrik",
+      "Sehat jasmani dan rohani",
+      "Bersedia bekerja shift",
+      "Disiplin dan bertanggung jawab"
+    ],
+    "benefit": ["BPJS Kesehatan & Ketenagakerjaan", "Makan Siang", "Tunjangan Transport"],
+    "kontak": "recruitment@indofood.co.id",
+    "batas_lamaran": "30 September 2025"
+  },
+  { 
+    "id": "LOK-002",
+    "posisi": "Admin Staff", 
+    "perusahaan": "Bank BJB", 
+    "lokasi": "Cabang Purwakarta", 
+    "tipe": "Magang / Kontrak", 
+    "gaji": "4.5 - 5 Juta", 
+    "logo": "https://placehold.co/100x100/0ea5e9/ffffff?text=BJB",
+    "deskripsi": "Membantu administrasi perkantoran dan pengarsipan dokumen nasabah.",
+    "syarat": [
+      "Lulusan SMK Jurusan Akuntansi (AKL) / Perkantoran (OTKP)",
+      "Menguasai Ms. Office (Word, Excel)",
+      "Berpenampilan rapi dan komunikatif",
+      "Teliti dan jujur"
+    ],
+    "benefit": ["Pengalaman Kerja Perbankan", "Sertifikat Magang"],
+    "kontak": "https://rekrutmen.bankbjb.co.id",
+    "batas_lamaran": "15 Oktober 2025"
+  },
+  { 
+    "id": "LOK-003",
+    "posisi": "Junior Programmer", 
+    "perusahaan": "Software House Bandung", 
+    "lokasi": "Remote / WFH", 
+    "tipe": "Full Time", 
+    "gaji": "Project Based", 
+    "logo": "https://placehold.co/100x100/64748b/ffffff?text=Dev",
+    "deskripsi": "Mengembangkan website frontend menggunakan React/Vue.",
+    "syarat": [
+      "Lulusan SMK RPL (Rekayasa Perangkat Lunak)",
+      "Memiliki portofolio project web",
+      "Menguasai HTML, CSS, JS Dasar",
+      "Mampu bekerja dalam tim"
+    ],
+    "benefit": ["Waktu Kerja Fleksibel", "Mentoring Senior Dev"],
+    "kontak": "hrd@devhouse.com",
+    "batas_lamaran": "Rolling Basis"
+  },
+  { 
+    "id": "LOK-004",
+    "posisi": "Mekanik Junior", 
+    "perusahaan": "AHASS Honda", 
+    "lokasi": "Purwakarta Kota", 
+    "tipe": "Full Time", 
+    "gaji": "UMK + Insentif", 
+    "logo": "https://placehold.co/100x100/ef4444/ffffff?text=AHASS",
+    "deskripsi": "Melakukan service berkala dan perbaikan ringan sepeda motor Honda.",
+    "syarat": [
+      "Lulusan SMK TBSM (Teknik Bisnis Sepeda Motor)",
+      "Memiliki sertifikat PKL di bengkel resmi",
+      "Jujur dan pekerja keras"
+    ],
+    "benefit": ["Insentif Service", "Jenjang Karir Kepala Mekanik"],
+    "kontak": "Datang Langsung ke AHASS Pusat",
+    "batas_lamaran": "01 Desember 2025"
+  }
+]

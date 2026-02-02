@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pendaftaran Berhasil - SekolahKu Digital</title>
+    <style>
+        body { margin: 0; padding: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #f3f4f6; color: #1f2937; }
+        .wrapper { width: 100%; table-layout: fixed; background-color: #f3f4f6; padding-bottom: 40px; }
+        .main { background-color: #ffffff; margin: 0 auto; width: 100%; max-width: 600px; border-spacing: 0; font-family: sans-serif; color: #1f2937; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); border-radius: 8px; overflow: hidden; }
+        .header { padding: 30px 40px; background: linear-gradient(135deg, #4f46e5 0%, #4338ca 100%); text-align: center; }
+        .header img { max-width: 120px; margin-bottom: 15px; }
+        .header h1 { color: #ffffff; margin: 0; font-size: 22px; font-weight: 700; letter-spacing: 0.5px; }
+        .body { padding: 40px; }
+        .greeting { font-size: 16px; margin-bottom: 20px; line-height: 1.5; }
+        .reg-box { background-color: #eef2ff; border: 1px dashed #6366f1; border-radius: 8px; padding: 20px; text-align: center; margin: 25px 0; }
+        .reg-label { font-size: 12px; color: #6b7280; text-transform: uppercase; letter-spacing: 1px; font-weight: bold; margin-bottom: 5px; }
+        .reg-number { font-size: 28px; font-weight: 800; color: #4338ca; font-family: monospace; letter-spacing: 1px; }
+        .table-title { font-size: 16px; font-weight: 700; color: #111827; border-bottom: 2px solid #e5e7eb; padding-bottom: 10px; margin-bottom: 15px; margin-top: 30px; }
+        .data-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+        .data-table td { padding: 8px 0; vertical-align: top; }
+        .data-label { color: #6b7280; font-weight: 500; width: 35%; }
+        .data-value { color: #111827; font-weight: 600; }
+        .data-link { color: #4f46e5; text-decoration: none; font-weight: 600; }
+        .data-link:hover { text-decoration: underline; }
+        .footer { background-color: #f9fafb; padding: 30px 40px; text-align: center; font-size: 12px; color: #9ca3af; border-top: 1px solid #e5e7eb; }
+        .footer a { color: #6b7280; text-decoration: underline; }
+        .btn-primary { display: inline-block; background-color: #4f46e5; color: #ffffff; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 14px; margin-top: 20px; }
+        @media screen and (max-width: 600px) {
+            .body { padding: 20px; }
+            .header { padding: 20px; }
+            .reg-number { font-size: 20px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <table class="main" role="presentation">
+            <!-- Header -->
+            <tr>
+                <td class="header">
+                    <!-- Logo URL -->
+                    <img src="https://placehold.co/200x200/ffffff/4f46e5?text=SKD" alt="Logo SekolahKu" width="100" style="display: block; margin: 0 auto 15px auto; border-radius: 50%;">
+                    <h1>Pendaftaran Berhasil</h1>
+                </td>
+            </tr>
+
+            <!-- Body -->
+            <tr>
+                <td class="body">
+                    <p class="greeting">
+                        Halo <strong>{{to_name}}</strong>,<br><br>
+                        Terima kasih telah mendaftar di <strong>SekolahKu Digital</strong>. Data pendaftaran Anda telah kami terima dan sedang dalam proses verifikasi administrasi.
+                    </p>
+
+                    <!-- Registration ID Box -->
+                    <div class="reg-box">
+                        <div class="reg-label">Nomor Registrasi Anda</div>
+                        <div class="reg-number">{{registration_id}}</div>
+                    </div>
+
+                    <p style="font-size: 14px; color: #4b5563; text-align: center;">
+                        Mohon simpan nomor registrasi ini untuk keperluan pengecekan status kelulusan dan daftar ulang.
+                    </p>
+
+                    <!-- Detail Data -->
+                    <div class="table-title">Rincian Data Pendaftaran</div>
+                    
+                    <table class="data-table">
+                        <tr>
+                            <td class="data-label">Nama Lengkap</td>
+                            <td class="data-value">{{nama_lengkap}}</td>
+                        </tr>
+                        <tr>
+                            <td class="data-label">NIK</td>
+                            <td class="data-value">{{nik}}</td>
+                        </tr>
+                        <tr>
+                            <td class="data-label">Email</td>
+                            <td class="data-value">{{email}}</td>
+                        </tr>
+                        <tr>
+                            <td class="data-label">WhatsApp</td>
+                            <td class="data-value">{{whatsapp}}</td>
+                        </tr>
+                        <tr>
+                            <td class="data-label" style="padding-top: 15px;">Jalur Daftar</td>
+                            <td class="data-value" style="padding-top: 15px;">{{jalur_pendaftaran}}</td>
+                        </tr>
+                        <tr>
+                            <td class="data-label">Asal Sekolah</td>
+                            <td class="data-value">{{asal_sekolah}}</td>
+                        </tr>
+                        <tr>
+                            <td class="data-label">Pilihan Jurusan 1</td>
+                            <td class="data-value" style="color: #4f46e5;">{{pilihan_prodi_1}}</td>
+                        </tr>
+                        <tr>
+                            <td class="data-label">Pilihan Jurusan 2</td>
+                            <td class="data-value">{{pilihan_prodi_2}}</td>
+                        </tr>
+                    </table>
+
+                    <div class="table-title">Berkas Dokumen</div>
+                    <table class="data-table">
+                        <tr>
+                            <td class="data-label">KTP</td>
+                            <td class="data-value"><a href="{{link_ktp}}" class="data-link">Lihat File</a></td>
+                        </tr>
+                        <tr>
+                            <td class="data-label">Kartu Keluarga</td>
+                            <td class="data-value"><a href="{{link_kk}}" class="data-link">Lihat File</a></td>
+                        </tr>
+                        <tr>
+                            <td class="data-label">Akta Kelahiran</td>
+                            <td class="data-value"><a href="{{link_akta}}" class="data-link">Lihat File</a></td>
+                        </tr>
+                        <tr>
+                            <td class="data-label">Pas Foto</td>
+                            <td class="data-value"><a href="{{link_foto}}" class="data-link">Lihat File</a></td>
+                        </tr>
+                    </table>
+
+                    <div style="text-align: center; margin-top: 30px;">
+                        <a href="https://sekolahku-digital.id/#/daftar" class="btn-primary">Cek Status Penerimaan</a>
+                    </div>
+                </td>
+            </tr>
+
+            <!-- Footer -->
+            <tr>
+                <td class="footer">
+                    <p style="margin-bottom: 10px;">
+                        <strong>Panitia PPDB<br>SekolahKu Digital</strong><br>
+                        Jl. Teknologi No.1, Jakarta
+                    </p>
+                    <p>
+                        Email ini dikirim secara otomatis oleh sistem.<br>
+                        Jika ada pertanyaan, silakan hubungi <a href="mailto:info@sekolahku-digital.id">info@sekolahku-digital.id</a>
+                    </p>
+                    <p style="margin-top: 20px;">&copy; 2025 SekolahKu Digital. All rights reserved.</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,93 @@
+
+[
+  {
+    "id": 1,
+    "judul": "Pelepasan Siswa Magang Industri Digital 2025",
+    "tanggal": "28 Agu 2024",
+    "penulis": "Humas",
+    "kategori": "Akademik",
+    "gambar": "https://placehold.co/1200x600/1e293b/ffffff?text=Pelepasan+PKL",
+    "ringkasan": "Sebanyak 300 siswa talenta digital resmi dilepas untuk melaksanakan Praktik Kerja Industri (Prakerin) di startup unicorn.",
+    "isiKonten": [
+      "Kepala Sekolah melepas 300 siswa untuk melaksanakan Prakerin di berbagai IDUKA (Industri Dunia Usaha dan Kerja).",
+      "Siswa diharapkan dapat menjaga nama baik SekolahKu Digital dan menyerap ilmu industri sebanyak-banyaknya.",
+      "Prakerin akan berlangsung selama 6 bulan di wilayah Jabodetabek dan Remote."
+    ],
+    "tags": ["Prakerin", "PKL", "Startup"]
+  },
+  {
+    "id": 2,
+    "judul": "Kunjungan Industri ke Google Indonesia",
+    "tanggal": "15 Jul 2024",
+    "penulis": "Kaprog RPL",
+    "kategori": "Kegiatan",
+    "gambar": "https://placehold.co/1200x600/f59e0b/ffffff?text=Kunjungan+Google",
+    "ringkasan": "Siswa jurusan Rekayasa Perangkat Lunak melihat langsung budaya kerja di perusahaan teknologi global.",
+    "isiKonten": [
+      "Kunjungan industri ini bertujuan mengenalkan budaya kerja industri kepada siswa kelas X.",
+      "Siswa diajak berkeliling kantor dan berdiskusi dengan engineer.",
+      "Kegiatan ini merupakan bagian dari kurikulum Link and Match."
+    ],
+    "tags": ["Kunjungan Industri", "RPL", "Google"]
+  },
+  {
+    "id": 3,
+    "judul": "Virtual Job Fair SekolahKu Digital 2024",
+    "tanggal": "10 Sep 2024",
+    "penulis": "BKK Digital",
+    "kategori": "BKK",
+    "gambar": "https://placehold.co/1200x600/4f46e5/ffffff?text=Job+Fair",
+    "ringkasan": "Menghadirkan 50 perusahaan mitra untuk rekrutmen langsung secara online.",
+    "isiKonten": [
+      "Ribuan pencari kerja mengakses platform Job Fair virtual kami.",
+      "Perusahaan yang hadir antara lain Tokopedia, Gojek, dan Traveloka.",
+      "Banyak alumni yang langsung mendapatkan panggilan interview."
+    ],
+    "tags": ["Job Fair", "BKK", "Lowongan"]
+  },
+  {
+    "id": 4,
+    "judul": "Tim E-Sport SekolahKu Juara 1 Nasional",
+    "tanggal": "05 Okt 2024",
+    "penulis": "Ekskul E-Sport",
+    "kategori": "Prestasi",
+    "gambar": "https://placehold.co/1200x600/10b981/ffffff?text=Juara+Esport",
+    "ringkasan": "Prestasi membanggakan kembali ditorehkan oleh tim E-Sport sekolah.",
+    "isiKonten": [
+      "Pertandingan final berlangsung sengit melawan tim dari provinsi lain.",
+      "SekolahKu Digital memenangkan kategori Mobile Legends.",
+      "Kepala Sekolah memberikan apresiasi beasiswa prestasi."
+    ],
+    "tags": ["Olahraga", "Prestasi", "Siswa"]
+  },
+  {
+    "id": 5,
+    "judul": "Webinar Cyber Security bersama BSSN",
+    "tanggal": "12 Okt 2024",
+    "penulis": "Kesiswaan",
+    "kategori": "Kegiatan",
+    "gambar": "https://placehold.co/1200x600/06b6d4/ffffff?text=Webinar+Security",
+    "ringkasan": "Edukasi keamanan data pribadi di era digital.",
+    "isiKonten": [
+      "BSSN memberikan edukasi tentang pentingnya menjaga data pribadi.",
+      "Siswa diajak untuk menjadi agen literasi digital.",
+      "Acara ditutup dengan deklarasi internet sehat."
+    ],
+    "tags": ["Cyber Security", "Webinar", "Kesiswaan"]
+  },
+  {
+    "id": 6,
+    "judul": "Peluncuran SekolahKu Digital Store App",
+    "tanggal": "20 Okt 2024",
+    "penulis": "TeFa",
+    "kategori": "Teaching Factory",
+    "gambar": "https://placehold.co/1200x600/be123c/ffffff?text=App+Launch",
+    "ringkasan": "Unit produksi merilis aplikasi marketplace untuk produk siswa.",
+    "isiKonten": [
+      "Aplikasi ini dikembangkan langsung oleh siswa jurusan RPL.",
+      "Menyediakan berbagai produk kreatif dan jasa freelance siswa.",
+      "Menjadi tempat praktik wirausaha digital."
+    ],
+    "tags": ["TeFa", "Bisnis", "Startup"]
+  }
+]

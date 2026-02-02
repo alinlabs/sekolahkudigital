@@ -1,0 +1,35 @@
+
+[
+  { 
+    "nama": "Asep Sunarya", 
+    "lulusan": "RPL Angkatan 2018", 
+    "peran": "Senior Frontend Dev", 
+    "perusahaan": "Tokopedia", 
+    "kutipan": "Skill coding yang diajarkan di sekolah sangat relevan dengan kebutuhan startup unicorn.", 
+    "gambar": "https://placehold.co/400x400/1e293b/ffffff?text=AS" 
+  },
+  { 
+    "nama": "Dewi Sartika", 
+    "lulusan": "Akuntansi Angkatan 2019", 
+    "peran": "Staff Finance", 
+    "perusahaan": "PT Indofood", 
+    "kutipan": "Sertifikasi kompetensi dari sekolah sangat membantu saat melamar kerja.", 
+    "gambar": "https://placehold.co/400x400/be123c/ffffff?text=DS" 
+  },
+  { 
+    "nama": "Rian Hidayat", 
+    "lulusan": "TBSM Angkatan 2020", 
+    "peran": "Kepala Mekanik", 
+    "perusahaan": "AHASS Honda", 
+    "kutipan": "Prakerin di bengkel resmi membuka jalan karir saya hingga jadi kepala mekanik.", 
+    "gambar": "https://placehold.co/400x400/d97706/ffffff?text=RH" 
+  },
+  { 
+    "nama": "Siti Aminah", 
+    "lulusan": "TKJ Angkatan 2021", 
+    "peran": "Network Engineer", 
+    "perusahaan": "Lintasarta", 
+    "kutipan": "Fasilitas lab jaringan yang lengkap membuat saya siap menghadapi ujian sertifikasi MTCNA.", 
+    "gambar": "https://placehold.co/400x400/047857/ffffff?text=SA" 
+  }
+]

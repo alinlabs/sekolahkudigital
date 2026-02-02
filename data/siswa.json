@@ -1,0 +1,97 @@
+
+[
+  {
+    "id": "SISWA-001",
+    "nis": "21221001",
+    "nisn": "0051234567",
+    "nama": "Alex Johnson",
+    "username": "alex.j",
+    "status": "Aktif",
+    "avatar": "https://placehold.co/200x200/cbd5e1/1e293b?text=AL",
+    "biodata": {
+        "tempat_lahir": "Bandung",
+        "tanggal_lahir": "2007-05-12",
+        "jenis_kelamin": "Laki-laki",
+        "agama": "Islam",
+        "alamat": "Jl. Merdeka No. 10, Jakarta",
+        "no_hp": "081234567890",
+        "email": "alex.j@student.sekolahku-digital.id"
+    },
+    "orang_tua": {
+        "nama_ayah": "Robert Johnson",
+        "pekerjaan_ayah": "Wiraswasta",
+        "nama_ibu": "Maria Ulfa",
+        "no_hp_ortu": "081122334455"
+    }
+  },
+  {
+    "id": "SISWA-002",
+    "nis": "21221002",
+    "nisn": "0057654321",
+    "nama": "Siti Aminah",
+    "username": "siti.aminah",
+    "status": "Aktif",
+    "avatar": "https://placehold.co/200x200/f1f5f9/1e293b?text=SA",
+    "biodata": {
+        "tempat_lahir": "Subang",
+        "tanggal_lahir": "2007-08-20",
+        "jenis_kelamin": "Perempuan",
+        "agama": "Islam",
+        "alamat": "Perumahan Griya Asri Blok B No. 5",
+        "no_hp": "085678901234",
+        "email": "siti.a@student.sekolahku-digital.id"
+    },
+    "orang_tua": {
+        "nama_ayah": "Ahmad Supriadi",
+        "pekerjaan_ayah": "PNS",
+        "nama_ibu": "Dewi Sartika",
+        "no_hp_ortu": "081299887766"
+    }
+  },
+  {
+    "id": "SISWA-003",
+    "nis": "20211055",
+    "nisn": "0049988776",
+    "nama": "Rudi Hartono",
+    "username": "rudi.h",
+    "status": "Aktif",
+    "avatar": "https://placehold.co/200x200/e2e8f0/475569?text=RH",
+    "biodata": {
+        "tempat_lahir": "Jakarta",
+        "tanggal_lahir": "2006-02-14",
+        "jenis_kelamin": "Laki-laki",
+        "agama": "Kristen Protestan",
+        "alamat": "Jl. Veteran Gg. Kenanga",
+        "no_hp": "087811223344",
+        "email": "rudi.h@student.sekolahku-digital.id"
+    },
+    "orang_tua": {
+        "nama_ayah": "Bambang Hartono",
+        "pekerjaan_ayah": "Karyawan Swasta",
+        "nama_ibu": "Linda Kusuma",
+        "no_hp_ortu": "081344556677"
+    }
+  },
+  {
+    "id": "SISWA-004",
+    "nis": "21221005",
+    "nisn": "0059988771",
+    "nama": "Doni Pratama",
+    "username": "doni.p",
+    "status": "Aktif",
+    "avatar": "https://placehold.co/200x200/cbd5e1/1e293b?text=DP",
+    "biodata": { "jenis_kelamin": "Laki-laki" },
+    "orang_tua": { "nama_ayah": "Suherman" }
+  },
+  {
+    "id": "SISWA-005",
+    "nis": "21221006",
+    "nisn": "0059988772",
+    "nama": "Eka Saputra",
+    "username": "eka.s",
+    "status": "Aktif",
+    "avatar": "https://placehold.co/200x200/cbd5e1/1e293b?text=ES",
+    "biodata": { "jenis_kelamin": "Laki-laki" },
+    "orang_tua": { "nama_ayah": "Junaedi" }
+  }
+]

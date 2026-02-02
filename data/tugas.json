@@ -1,0 +1,36 @@
+
+[
+  { 
+    "id": "T-001", 
+    "judul": "Membuat Landing Page", 
+    "mapel_id": "MP-001", 
+    "kelas_id": "KLS-11-RPL-1", 
+    "deadline": "2024-10-30", 
+    "status_guru": "Aktif", 
+    "deskripsi": "Buat landing page portofolio menggunakan HTML5, CSS3, dan Bootstrap.",
+    "pengumpulan": 25,
+    "total_siswa": 32
+  },
+  { 
+    "id": "T-002", 
+    "judul": "Analisis ERD Toko Online", 
+    "mapel_id": "MP-002", 
+    "kelas_id": "KLS-11-RPL-1", 
+    "deadline": "2024-11-05", 
+    "status_guru": "Aktif", 
+    "deskripsi": "Rancang diagram ERD untuk sistem toko online mencakup entitas User, Produk, dan Transaksi.",
+    "pengumpulan": 10,
+    "total_siswa": 32
+  },
+  { 
+    "id": "T-003", 
+    "judul": "Jurnal Umum Perusahaan Jasa", 
+    "mapel_id": "MP-002", 
+    "kelas_id": "KLS-11-AKL-2", 
+    "deadline": "2024-10-28", 
+    "status_guru": "Selesai", 
+    "deskripsi": "Kerjakan soal kasus Salon Cantika halaman 45 buku paket.",
+    "pengumpulan": 30,
+    "total_siswa": 30
+  }
+]

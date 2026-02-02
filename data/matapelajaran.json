@@ -1,0 +1,13 @@
+
+[
+  { "id": "MP-001", "nama": "Pemrograman Web & Perangkat Bergerak", "kategori": "C3 (Produktif)", "tingkat": 11, "kkm": 78 },
+  { "id": "MP-002", "nama": "Basis Data", "kategori": "C3 (Produktif)", "tingkat": 11, "kkm": 75 },
+  { "id": "MP-003", "nama": "Pemrograman Berorientasi Objek", "kategori": "C3 (Produktif)", "tingkat": 11, "kkm": 78 },
+  { "id": "MP-004", "nama": "Matematika", "kategori": "Muatan Nasional", "tingkat": "Semua", "kkm": 70 },
+  { "id": "MP-005", "nama": "Bahasa Indonesia", "kategori": "Muatan Nasional", "tingkat": "Semua", "kkm": 75 },
+  { "id": "MP-006", "nama": "Bahasa Inggris", "kategori": "Muatan Nasional", "tingkat": "Semua", "kkm": 75 },
+  { "id": "MP-007", "nama": "Administrasi Infrastruktur Jaringan", "kategori": "C3 (Produktif)", "tingkat": 12, "kkm": 78 },
+  { "id": "MP-008", "nama": "Teknologi Layanan Jaringan", "kategori": "C3 (Produktif)", "tingkat": 12, "kkm": 78 },
+  { "id": "MP-009", "nama": "Produk Kreatif dan Kewirausahaan", "kategori": "C3 (Produktif)", "tingkat": 11, "kkm": 80 },
+  { "id": "MP-010", "nama": "Pendidikan Agama Islam", "kategori": "Muatan Nasional", "tingkat": "Semua", "kkm": 75 }
+]

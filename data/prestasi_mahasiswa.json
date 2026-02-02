@@ -1,0 +1,57 @@
+
+[
+  { 
+    "judul": "Juara 2 LKS Web Technologies", 
+    "kategori": "Akademik", 
+    "tim": "Tim RPL SekolahKu", 
+    "tingkat": "Provinsi", 
+    "gambar": "https://placehold.co/600x400/1e40af/FFF?text=LKS+Web", 
+    "tahun": "2024", 
+    "deskripsi": "Meraih medali perak dalam Lomba Kompetensi Siswa (LKS) tingkat Jawa Barat." 
+  },
+  { 
+    "judul": "Gold Medal Business Plan SMK", 
+    "kategori": "Kewirausahaan", 
+    "tim": "TeFa Bisnis", 
+    "tingkat": "Nasional", 
+    "gambar": "https://placehold.co/600x400/ca8a04/FFF?text=Gold+Medal", 
+    "tahun": "2024", 
+    "deskripsi": "Inovasi produk pangan lokal yang memenangkan kompetisi FIKSI Nasional." 
+  },
+  { 
+    "judul": "Juara 1 Futsal Liga Pelajar", 
+    "kategori": "Non-Akademik", 
+    "tim": "SekolahKu FC", 
+    "tingkat": "Kabupaten", 
+    "gambar": "https://placehold.co/600x400/047857/FFF?text=Juara+Futsal", 
+    "tahun": "2024", 
+    "deskripsi": "Mempertahankan gelar juara bertahan tingkat Kabupaten." 
+  },
+  { 
+    "judul": "Best Paper Award Seminar Vokasi", 
+    "kategori": "Akademik", 
+    "tim": "Siti Nurhaliza", 
+    "tingkat": "Nasional", 
+    "gambar": "https://placehold.co/600x400/be123c/FFF?text=Best+Paper", 
+    "tahun": "2023", 
+    "deskripsi": "Penelitian tentang penerapan akuntansi sederhana pada UMKM." 
+  },
+  { 
+    "judul": "Juara Harapan 1 Tari Tradisional", 
+    "kategori": "Seni Budaya", 
+    "tim": "Ekskul Tari", 
+    "tingkat": "Regional", 
+    "gambar": "https://placehold.co/600x400/d97706/FFF?text=Tari+Daerah", 
+    "tahun": "2024", 
+    "deskripsi": "Festival Lomba Seni Siswa Nasional (FLS2N)." 
+  },
+  { 
+    "judul": "Finalis Duta Genre", 
+    "kategori": "Non-Akademik", 
+    "tim": "Raka & Dinda", 
+    "tingkat": "Provinsi", 
+    "gambar": "https://placehold.co/600x400/7c3aed/FFF?text=Duta+Genre", 
+    "tahun": "2023", 
+    "deskripsi": "Mewakili sekolah dalam pemilihan Duta Generasi Berencana." 
+  }
+]

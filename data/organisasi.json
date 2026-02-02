@@ -1,0 +1,62 @@
+
+[
+  { 
+    "id": 1, 
+    "nama": "OSIS SekolahKu Digital", 
+    "kategori": "Intra Sekolah", 
+    "logo": "https://placehold.co/150x150/eab308/ffffff?text=OSIS", 
+    "gambar": "https://placehold.co/800x400/eab308/FFF?text=Kegiatan+OSIS", 
+    "deskripsi": "Organisasi Siswa Intra Sekolah sebagai induk kegiatan siswa. Bertanggung jawab atas aspirasi siswa dan penyelenggaraan event.",
+    "deskripsiLengkap": "OSIS SekolahKu Digital adalah wadah tunggal organisasi kesiswaan yang sah. Kami berfokus pada pengembangan kepemimpinan, kreativitas, dan budi pekerti luhur. OSIS aktif menyelenggarakan berbagai kegiatan mulai dari MPLS, Pensi, hingga kegiatan sosial.",
+    "program_kerja": [
+        { "nama": "Masa Pengenalan Lingkungan Sekolah (MPLS)", "status": "Terlaksana", "tanggal": "Juli 2024", "link": "#" },
+        { "nama": "Digital Fest (Pentas Seni)", "status": "Persiapan", "tanggal": "Desember 2024", "link": "#" },
+        { "nama": "Class Meeting Semester Ganjil", "status": "Rencana", "tanggal": "Desember 2024", "link": null },
+        { "nama": "Bakti Sosial Ramadhan", "status": "Rencana", "tanggal": "Maret 2025", "link": null }
+    ],
+    "anggota": [
+        { "nama": "Dimas Anggara", "jabatan": "Ketua OSIS", "foto": "https://placehold.co/100x100/1e293b/FFF?text=DA" },
+        { "nama": "Sarah Amalia", "jabatan": "Wakil Ketua", "foto": "https://placehold.co/100x100/be123c/FFF?text=SA" },
+        { "nama": "Rudi Hartono", "jabatan": "Sekretaris I", "foto": "https://placehold.co/100x100/047857/FFF?text=RH" },
+        { "nama": "Dewi Persik", "jabatan": "Bendahara", "foto": "https://placehold.co/100x100/d97706/FFF?text=DP" }
+    ],
+    "kontak": { "lokasi": "Ruang OSIS, Gedung A Lt.1", "sosmed": "@osis_sekolahku", "whatsapp": "6281234567890" } 
+  },
+  { 
+    "id": 2, 
+    "nama": "Paskibra SekolahKu", 
+    "kategori": "Ekskul", 
+    "logo": "https://placehold.co/150x150/22c55e/ffffff?text=PASKIBRA", 
+    "gambar": "https://placehold.co/800x400/22c55e/FFF?text=Latihan", 
+    "deskripsi": "Pasukan Pengibar Bendera, melatih kedisiplinan, fisik, dan mental serta baris-berbaris.", 
+    "deskripsiLengkap": "Paskibra SekolahKu Digital telah menorehkan banyak prestasi di tingkat kabupaten maupun provinsi. Kami mendidik anggota untuk memiliki jiwa nasionalisme tinggi, disiplin baja, dan fisik yang prima.",
+    "program_kerja": [
+        { "nama": "Pengibaran Bendera HUT RI", "status": "Terlaksana", "tanggal": "17 Agustus 2024", "link": "#" },
+        { "nama": "Lomba Baris Berbaris (LKBB)", "status": "Persiapan", "tanggal": "November 2024", "link": "#" },
+        { "nama": "Diklat Anggota Baru", "status": "Terlaksana", "tanggal": "Agustus 2024", "link": "#" }
+    ],
+    "anggota": [
+        { "nama": "Arif Rahman", "jabatan": "Komandan Satuan", "foto": "https://placehold.co/100x100/15803d/FFF?text=AR" },
+        { "nama": "Bunga Citra", "jabatan": "Sekretaris", "foto": "https://placehold.co/100x100/ec4899/FFF?text=BC" }
+    ],
+    "kontak": { "lokasi": "Lapangan Utama", "sosmed": "@paskibra_skd", "whatsapp": "628567890123" } 
+  },
+  { 
+    "id": 5, 
+    "nama": "IT Club (RPL/TKJ)", 
+    "kategori": "Kejuruan", 
+    "logo": "https://placehold.co/150x150/3b82f6/ffffff?text=IT+CLUB", 
+    "gambar": "https://placehold.co/800x400/3b82f6/FFF?text=Coding", 
+    "deskripsi": "Komunitas siswa penggemar teknologi, coding, dan jaringan.", 
+    "deskripsiLengkap": "Wadah bagi siswa jurusan RPL dan TKJ untuk memperdalam skill di luar jam pelajaran. Kegiatan meliputi belajar coding bareng, maintenace jaringan sekolah, dan persiapan lomba LKS.",
+    "program_kerja": [
+        { "nama": "Workshop Web Design", "status": "Terlaksana", "tanggal": "September 2024", "link": "#" },
+        { "nama": "Hackathon Internal", "status": "Rencana", "tanggal": "Januari 2025", "link": null }
+    ],
+    "anggota": [
+        { "nama": "Kevin Sanjaya", "jabatan": "Ketua", "foto": "https://placehold.co/100x100/2563eb/FFF?text=KS" },
+        { "nama": "Linda Wati", "jabatan": "Divisi Software", "foto": "https://placehold.co/100x100/9333ea/FFF?text=LW" }
+    ],
+    "kontak": { "lokasi": "Lab Komputer 3", "sosmed": "@itclub_skd", "whatsapp": "628998877665" } 
+  }
+]
